@@ -5,6 +5,7 @@
   <groupId>org.springframework.social</groupId>
   <artifactId>spring-social-digg</artifactId>
   <version>0.5-SNAPSHOT</version>
+  <packaging>jar</packaging>
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
