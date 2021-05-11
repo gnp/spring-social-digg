@@ -1,3 +1,5 @@
+This project has been archived since 2021-05-11. It is not maintained.
+
 Digg Developers site:
 
   http://developers.digg.com/
